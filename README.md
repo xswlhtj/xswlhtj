@@ -43,11 +43,7 @@
 
 
 
----
 
-## 📊 我的个人博客
-
-![blog](https://github-readme-stats.vercel.app/api?username=xswlhtj&show_icons=true)
 
 ---
 
