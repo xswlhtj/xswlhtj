@@ -47,11 +47,7 @@
 
 ---
 
-## 📫 Contact Me
-
-如果你对我的项目感兴趣，欢迎通过 GitHub 与我交流。
-
-- GitHub: [@xswlhtj](https://github.com/xswlhtj)
+## 📫 Contact Me：htj2789399041@qq.com
 
 ---
 
